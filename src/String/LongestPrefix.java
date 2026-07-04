@@ -1,5 +1,4 @@
-package Array;
-import java.sql.SQLOutput;
+package String;
 import java.util.Scanner;
 
 public class LongestPrefix {
